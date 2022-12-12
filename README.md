@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @ColinsNeil<!---
+- 👋 Hi, I’m @ColinsNeil
+
+<!---
 - 👀 I’m interested in programming, computer vision
-- 🌱 I’m currently learning computer vision in python--->
+- 🌱 I’m currently learning computer vision in python
+--->
+
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
